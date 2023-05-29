@@ -31,7 +31,7 @@
 
 ### Результаты
 Написана функция game_core_v3. Алгоритм угадывает в среднем за 4 попытки.
-Презентация решения в файле baseline.ipynb и на [Colaboratory](https://colab.research.google.com/drive/15EH8JV3O8Vp3kGusoZO2t4lRPZGacwMj?usp=sharing)
+Презентация решения в файле [baseline.ipynb](https://github.com/kochden/Learn_DS/blob/main/project_1/baseline.ipynb) и на [Colaboratory](https://colab.research.google.com/drive/15EH8JV3O8Vp3kGusoZO2t4lRPZGacwMj?usp=sharing)
 
 ### Выводы
 Задание выполнено полностью.
